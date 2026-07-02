@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shani</h1>
 <h3 align="center">Software Development Engineer | React.js & React Native Specialist</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shani-kumar" alt="shani-kumar" /></a> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=shani-kumar&label=Profile%20views&color=0e75b6&style=flat" alt="shani-kumar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shani-kumar" alt="shani-kumar" /></a> </p> -->
 
 <p align="left">
 I am an SDE specializing in building highly performant, cross-platform applications. My core expertise lies in frontend and mobile ecosystems where I have extensive experience architecting and integrating many reusable components for enterprise UI architectures. Beyond the frontend, I also develop robust backend APIs and leverage modern containerization tools.
